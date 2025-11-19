@@ -1,7 +1,4 @@
-workflows:
-  build_web:
-    name: Build Static Website
-    scripts:
-      - echo "No build needed for HTML/CSS/JS"
-    artifacts:
-      - "**/*"
+/index.html
+/style.css
+/script.js
+/codemagic.yaml
